@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/tools/nunit/bin/lib/Images/Tree/Visual%20Studio
+END
+Failure.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/tools/nunit/bin/lib/Images/Tree/Visual%20Studio/Failure.png
+END
+Ignored.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/tools/nunit/bin/lib/Images/Tree/Visual%20Studio/Ignored.png
+END
+Success.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/tools/nunit/bin/lib/Images/Tree/Visual%20Studio/Success.png
+END
+SeriousWarning.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/tools/nunit/bin/lib/Images/Tree/Visual%20Studio/SeriousWarning.png
+END
+Skipped.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/tools/nunit/bin/lib/Images/Tree/Visual%20Studio/Skipped.png
+END
+Inconclusive.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/tools/nunit/bin/lib/Images/Tree/Visual%20Studio/Inconclusive.png
+END
